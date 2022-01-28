@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\Dotnet -Poo.exe
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\Dotnet -Poo.deps.json
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\Dotnet -Poo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\Dotnet -Poo.dll
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\ref\Dotnet -Poo.dll
+C:\Users\Usuario\Desktop\Dotnet -Poo\bin\Debug\net6.0\Dotnet -Poo.pdb
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.dll
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\ref\Dotnet -Poo.dll
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.pdb
+C:\Users\Usuario\Desktop\Dotnet -Poo\obj\Debug\net6.0\Dotnet -Poo.genruntimeconfig.cache
